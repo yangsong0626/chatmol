@@ -1,0 +1,13 @@
+"C(=O)O",  # Carboxylic acid
+"C(=O)NC",  # Amide
+"COC",  # Ketone
+"NC",      # Methylated amine
+"O",       # Hydroxyl
+"OC",      # Methoxy
+"Cl",      # Chlorine
+"Br",      # Bromine
+"F",       # Fluorine
+"C(F)(F)F",#CF3
+"C#N",     # Nitrile
+"C1CCCCC1",# Cyclohexane
+"C1CC1",   # Cyclopropyl
